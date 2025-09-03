@@ -1,0 +1,1 @@
+This project aims to predict telecom customer churn by integrating customer data with emotional insights from voice interactions. The objective is to detect customers at risk and improve retention strategies by analyzing both behavioral trends and emotional tone.
